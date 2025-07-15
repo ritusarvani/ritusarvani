@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
+<h1 align="center">Hi 👋, I'm Ritu Sarvani</h1>
 
 <p align="center">
 Driven by curiosity and innovation | Web Development, AI, and Machine Learning Enthusiast | Crafting impactful solutions through code
