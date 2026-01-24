@@ -7,7 +7,6 @@ Driven by curiosity and innovation | Web Development, AI, and Machine Learning E
 ---
 
 - 🌱 I’m currently learning **Pandas, NumPy, Node.js**
-- ✍️ I regularly write articles on [Medium](https://medium.com/@yourprofile)
 - 💬 Ask me about **React.js, Next.js, Web Development, Artificial Intelligence**
 - 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: I can explain complex concepts to a 5-year-old and make them sound like a bedtime story.
